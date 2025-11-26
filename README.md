@@ -1,1 +1,2 @@
-<img src="https://raw.githubusercontent.com/onitorrincorporation/OrnitorriCorporation/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/onitorrincorporation/ornitorricorporation/output/snake.svg" alt="Snake animation" />
+
