@@ -4,9 +4,7 @@
 
 ## 💾 Linguagens sendo absorvidas 💻🖱
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+/>
   
 
   
@@ -18,3 +16,4 @@
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 # ドThreee Freeeeeeeeezeド
 ![Echoes ACT 3](https://static.wikia.nocookie.net/jjba/images/d/d8/DTQAWs.png/revision/latest/scale-to-width/360?cb=20170520195031&path-prefix=pt-br)
+
