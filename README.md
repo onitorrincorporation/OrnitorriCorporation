@@ -8,8 +8,8 @@
   
 
   
-![AlvaroF1lip3](https://github-readme-stats.vercel.app/api?username=AlvaroF1lip3&show_icons=true&theme=radical)
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroF1lip3&layout=compact&theme=radical)
+
+
 
 
 
