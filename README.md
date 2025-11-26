@@ -1,5 +1,3 @@
-# POO-2025.2-TIP4
-
 <img src="https://raw.githubusercontent.com/AlvaroF1lip3/POO-2025.2-TIP4/output/snake.svg" alt="Snake animation" />
 
 ## 💾 Linguagens sendo absorvidas 💻🖱
@@ -18,3 +16,4 @@
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 # ドThreee Freeeeeeeeezeド
 ![Echoes ACT 3](https://static.wikia.nocookie.net/jjba/images/d/d8/DTQAWs.png/revision/latest/scale-to-width/360?cb=20170520195031&path-prefix=pt-br)
+
